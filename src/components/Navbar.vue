@@ -1,5 +1,5 @@
 <template>
-  <nav class="relative container mx-auto p-6 bg-gray-500">
+  <nav class="relative container mx-auto p-6">
    <div class="flex items-center justify-between">
        <div class="pt-2">
            <img src="https://cdn.dribbble.com/users/238864/screenshots/15930284/media/6cd2840046dac3e19127137388f66ebd.png?compress=1&resize=400x300" class="w-28"/>
