@@ -12,7 +12,7 @@
        
       </div>
       <div class=" md:w-1/2">
-           <img src="https://i.pinimg.com/originals/bf/8d/5f/bf8d5f32aa70006abf7a267192c8ecad.jpg"/>
+           <img src="images/illustration-intro.svg"/>
        </div>
   </div>
 </template>
